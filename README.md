@@ -29,4 +29,4 @@ Chess game created using knowledge studied in Java so far, namely:
 - Polymorphism;
 
  
-- Exceptions;
+- Exceptions.

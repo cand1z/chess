@@ -13,4 +13,10 @@ public class Knigth extends ChessPiece {
     public String toString() {
         return "N";
     }
+    
+    @Override
+    public boolean[][] possibleMoves() {
+    	boolean [][] aux = new boolean[getBoard().getRows()][getBoard().getColumns()];
+    	return aux;
+    }
 }
